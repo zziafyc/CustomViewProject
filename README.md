@@ -1,0 +1,2 @@
+# CustomViewProject
+一个自定义view的汇总项目，该项目旨在开发并总结andorid自定义view相关内容
